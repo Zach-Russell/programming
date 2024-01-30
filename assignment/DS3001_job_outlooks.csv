@@ -1,5 +1,10 @@
-Title,Data Scientist,Software Engineer,Web Developer,Registered Nurse,Chemical Engineer,Physician,Dentist,Lawyer,Musician
-Median Yearly Salary,103500.00,124200.00,80730.00,81220.00,106260.00,229300.00,159530.00,135740.00,40315.00
-Education,Bachelors,Bachelors,Bachelors,Bachelors,Bachelors,Doctoral,Doctoral,Doctoral,None
-Jobs,168900.00,1795300.00,216700.00,3172500.00,20800.00,816900.00,155000.00,826300.00,173500.00
-Outlook,35.00%,25.00%,16.00%,6.00%,8.00%,3.00%,4.00%,8.00%,1.00%
+Title, Median Yearly Salary, Education, Jobs, Outlook
+Data Scientist,103500.00,Bachelors,168900.00,35.00
+Software Engineer,124200.00,Bachelors,1795300.00,25.00%
+Web Developer,80730.00,Bachelors,216700.00,%16.00%
+Registered Nurse,81220.00,Bachelors,3172500.00,6.00%
+Chemical Engineer,106260.00,Bachelors,20800.00,8.00%
+Physician,229300.00,Doctoral,816900.00,3.00%
+Dentist,159530.00,Doctoral,155000.00,4.00%
+Lawyer,135740.00,Doctoral,826300.00,8.00%
+Musician,40315.00,None,173500.00,1.00%
